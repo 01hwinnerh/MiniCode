@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python -m compileall -q minicode tests)",
+      "Bash(python -m pytest -q --tb=line)",
+      "Bash(python -c \"import minicode; print\\('minicode package OK'\\)\")",
+      "Bash(python -c \"import os; print\\('ANTHROPIC_API_KEY:', 'sk-ant-...' if os.environ.get\\('ANTHROPIC_API_KEY',''\\).startswith\\('sk-ant-'\\) else 'NOT SET'\\); print\\('OPENAI_API_KEY:', 'sk-...' if os.environ.get\\('OPENAI_API_KEY',''\\).startswith\\('sk-'\\) else 'NOT SET'\\)\")",
+      "Bash(CUSTOM_API_KEY=\"sk-e5e2bda025bf4db0a6683a442f003e29\" CUSTOM_API_BASE_URL=\"https://api.deepseek.com\" ANTHROPIC_MODEL=\"deepseek-chat\" python -m minicode.headless \"用中文回复：简要介绍一下你是什么，以及你能做什么。\")",
+      "Bash(python -c ' *)",
+      "Bash(CUSTOM_API_KEY=\"sk-e5e2bda025bf4db0a6683a442f003e29\" CUSTOM_API_BASE_URL=\"https://api.deepseek.com\" MINI_CODE_MODEL=\"deepseek-chat\" python -m minicode.headless \"用中文回复：简要介绍一下你是什么，以及你能做什么。\")",
+      "Bash(python -m minicode.headless \"用一句话介绍你自己\")",
+      "Bash(python -c \"import sys; print\\([p for p in sys.path if 'Scripts' in p]\\)\")",
+      "Bash(pip show *)",
+      "Bash(python *)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "playwright",
+    "sequential-thinking"
+  ]
+}
