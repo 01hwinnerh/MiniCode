@@ -1,6 +1,6 @@
 # Project Memory
 
-*Last updated: 2026-06-15 09:32*
+*Last updated: 2026-07-09 13:39*
 
 ## Architecture
 
@@ -124,6 +124,20 @@ Lessons Learned:
   - Task completed successfully with the chosen approach.
   - Used 1 unique tool(s): unknown. `self-reflection success`
 - Task Context: show /history
+
+Key Decisions:
+
+Lessons Learned:
+  - Task completed successfully with the chosen approach.
+  - Used 1 unique tool(s): unknown. `self-reflection success`
+- Task Context: 列出当前目录的文件
+
+Key Decisions:
+
+Lessons Learned:
+  - Task completed successfully with the chosen approach.
+  - Used 1 unique tool(s): unknown. `self-reflection success`
+- Task Context: 列出当前目录的文件
 
 Key Decisions:
 

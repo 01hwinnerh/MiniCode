@@ -12,7 +12,12 @@
       "Bash(python -m minicode.headless \"用一句话介绍你自己\")",
       "Bash(python -c \"import sys; print\\([p for p in sys.path if 'Scripts' in p]\\)\")",
       "Bash(pip show *)",
-      "Bash(python *)"
+      "Bash(python *)",
+      "Bash(sort -t/ -k4,4)",
+      "Bash(sort -t/ -k5,5)",
+      "Bash(git *)",
+      "Read(//d/Project/实习项目/**)",
+      "Bash(claude --resume 0198903a-c2a9-40d9-95d3-afd9e08162f0)"
     ]
   },
   "enableAllProjectMcpServers": true,

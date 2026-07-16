@@ -1,6 +1,6 @@
 {
   "scope": "project",
-  "last_updated": 1781487121.731717,
+  "last_updated": 1783575566.0597115,
   "entries": [
     {
       "id": "project-1",
@@ -10,7 +10,7 @@
       "created_at": 1781076198.418744,
       "updated_at": 1781076198.418744,
       "tags": [],
-      "usage_count": 0,
+      "usage_count": 1,
       "domains": [],
       "tier": "short_term",
       "last_accessed": 1781076198.418744,
@@ -66,7 +66,7 @@
       "created_at": 1781076198.418744,
       "updated_at": 1781076198.418744,
       "tags": [],
-      "usage_count": 2,
+      "usage_count": 3,
       "domains": [],
       "tier": "short_term",
       "last_accessed": 1781076198.418744,
@@ -206,7 +206,7 @@
       "created_at": 1781076198.418744,
       "updated_at": 1781076198.418744,
       "tags": [],
-      "usage_count": 0,
+      "usage_count": 1,
       "domains": [],
       "tier": "short_term",
       "last_accessed": 1781076198.418744,
@@ -220,7 +220,7 @@
       "created_at": 1781076198.418744,
       "updated_at": 1781076198.418744,
       "tags": [],
-      "usage_count": 1,
+      "usage_count": 2,
       "domains": [],
       "tier": "short_term",
       "last_accessed": 1781076198.418744,
@@ -290,7 +290,7 @@
       "created_at": 1781076198.418744,
       "updated_at": 1781076198.418744,
       "tags": [],
-      "usage_count": 1,
+      "usage_count": 2,
       "domains": [],
       "tier": "short_term",
       "last_accessed": 1781076198.418744,
@@ -332,7 +332,7 @@
       "created_at": 1781076198.418744,
       "updated_at": 1781076198.418744,
       "tags": [],
-      "usage_count": 1,
+      "usage_count": 2,
       "domains": [],
       "tier": "short_term",
       "last_accessed": 1781076198.418744,
@@ -374,7 +374,7 @@
       "created_at": 1781076198.418744,
       "updated_at": 1781076198.418744,
       "tags": [],
-      "usage_count": 1,
+      "usage_count": 2,
       "domains": [],
       "tier": "short_term",
       "last_accessed": 1781076198.418744,
@@ -444,7 +444,7 @@
       "created_at": 1781076198.418744,
       "updated_at": 1781076198.418744,
       "tags": [],
-      "usage_count": 1,
+      "usage_count": 2,
       "domains": [],
       "tier": "short_term",
       "last_accessed": 1781076198.418744,
@@ -458,7 +458,7 @@
       "created_at": 1781076198.418744,
       "updated_at": 1781076198.418744,
       "tags": [],
-      "usage_count": 0,
+      "usage_count": 1,
       "domains": [],
       "tier": "short_term",
       "last_accessed": 1781076198.418744,
@@ -639,7 +639,7 @@
         "record_snapshot(snapshot:",
         "MetricSnapshot)"
       ],
-      "usage_count": 1,
+      "usage_count": 2,
       "domains": [],
       "tier": "short_term",
       "last_accessed": 1781076198.418744,
@@ -872,6 +872,40 @@
       "domains": [],
       "tier": "short_term",
       "last_accessed": 1781487121.7303145,
+      "related_to": []
+    },
+    {
+      "id": "project-1783575566-57",
+      "scope": "project",
+      "category": "reflection",
+      "content": "Task Context: 列出当前目录的文件\n\nKey Decisions:\n\nLessons Learned:\n  - Task completed successfully with the chosen approach.\n  - Used 1 unique tool(s): unknown.",
+      "created_at": 1783575566.0510826,
+      "updated_at": 1783575566.0510826,
+      "tags": [
+        "self-reflection",
+        "success"
+      ],
+      "usage_count": 0,
+      "domains": [],
+      "tier": "short_term",
+      "last_accessed": 1783575566.0510826,
+      "related_to": []
+    },
+    {
+      "id": "project-1783575566-58",
+      "scope": "project",
+      "category": "reflection",
+      "content": "Task Context: 列出当前目录的文件\n\nKey Decisions:\n\nLessons Learned:\n  - Task completed successfully with the chosen approach.\n  - Used 1 unique tool(s): unknown.",
+      "created_at": 1783575566.058709,
+      "updated_at": 1783575566.058709,
+      "tags": [
+        "self-reflection",
+        "success"
+      ],
+      "usage_count": 0,
+      "domains": [],
+      "tier": "short_term",
+      "last_accessed": 1783575566.058709,
       "related_to": []
     }
   ]
